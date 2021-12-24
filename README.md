@@ -1,11 +1,11 @@
-## Bienvenue 👋
+# Bienvenue 👋
 > Follow your bliss and the universe will open doors where there were only walls.
 
-### Who am I?
+## Who am I?
 
 I'm Cole, you can also call me Nicole. I'm an aspiring Full-stack developer following a not-so-planned road towards my dreams. I am currently studying Computer Engineering, making the best effort despite all roadblocks and technological distractions.
 
-### Work experience
+## Work experience
 - 🔥 Adevinta: currently a Full-stack Engineer
 - 💡 La Salle Campus BCN: Assistant teacher in Object-oriented Programming and Design & Web Projects II (PHP)
 
@@ -14,7 +14,7 @@ Previously...
 - 💡 La Salle Campus BCN: Departamental collaborator
 - 🏫 Freelance: Object-oriented Design and Programming teacher
 
-### Stats
+## Stats
 
 ![Cole's GitHub stats](https://github-readme-stats.vercel.app/api?username=nickj10&show_icons=true&theme=great-gatsby)
 
