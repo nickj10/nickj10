@@ -16,7 +16,19 @@ Previously...
 
 ## Stats
 
-![Cole's GitHub stats](https://github-readme-stats.vercel.app/api?username=nickj10&show_icons=true&theme=great-gatsby)
+<a href="https://github.com/nickj10/nickj10">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nickj10&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/nickj10/nickj10">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nickj10&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Cole's GitHub Stats" />
+</a>
 
-[![How do I code?](https://github-readme-stats.vercel.app/api/top-langs/?username=nickj10)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/nickj10/nickj10">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nickj10&repo=TaberuBot&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+
+<a href="https://github.com/nickj10/nickj10">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nickj10&repo=PwPay&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a> 
 
