@@ -23,12 +23,12 @@ Previously...
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=nickj10&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Cole's GitHub Stats" />
 </a>
 
-<a href="https://github.com/nickj10/nickj10">
+<a href="https://github.com/nickj10/taberubot">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nickj10&repo=TaberuBot&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 
-<a href="https://github.com/nickj10/nickj10">
+<a href="https://github.com/nickj10/pwpay">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nickj10&repo=PwPay&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a> 
 
