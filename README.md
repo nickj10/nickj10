@@ -6,12 +6,13 @@
 I'm Cole, you can also call me Nicole. I'm a Full-stack engineer following a not-so-planned road towards my dreams. I am currently studying Computer Engineering, making the best effort despite all roadblocks and technological distractions. I'm passionate about what I do: eat, sleep, code, repeat. I love discovering new technology and tools, explore them and maybe use them or share knowledge!
 
 ## Work experience
-- 🔥 Adevinta: currently a Full-stack Engineer
-- 💡 La Salle Campus BCN: Assistant teacher in Object-oriented Programming and Design & Web Projects II (PHP)
+Currently...
+- 🎈 Glovo: Full-Stack Engineer II
 
 Previously...
+- 🔥 Adevinta: Full-stack Engineer
+- 💡 La Salle Campus BCN: Assistant teacher in Object-oriented Programming and Design & Web Projects II (PHP), Departamental collaborator
 - 💼 proceedit: Development Division Head
-- 💡 La Salle Campus BCN: Departamental collaborator
 - 🏫 Freelance: Object-oriented Design and Programming teacher
 
 ## Stats
