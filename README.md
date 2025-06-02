@@ -3,7 +3,7 @@
 
 ## Who am I?
 
-I'm Cole, you can also call me Nicole. I'm a Full-stack engineer following a not-so-planned road towards my dreams. I am currently studying Computer Engineering, making the best effort despite all roadblocks and technological distractions. I'm passionate about what I do: eat, sleep, code, repeat. I love discovering new technology and tools, explore them and maybe use them or share knowledge!
+I'm Cole, you can also call me Nicole. I'm a Software Engineer following a not-so-planned road towards my dreams, making the best effort despite all roadblocks and technological distractions. I'm passionate about what I do: eat, sleep, code, repeat. I love discovering new technology and tools, explore them and maybe use them or share knowledge!
 
 ## Work experience
 Currently...
