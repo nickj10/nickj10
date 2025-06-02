@@ -7,7 +7,7 @@ I'm Cole, you can also call me Nicole. I'm a Software Engineer following a not-s
 
 ## Work experience
 Currently...
-- 🎈 Glovo: Software Engineer II - Fullstack
+- 🎈 Glovo: Software Engineer II
 
 Previously...
 - 🔥 Adevinta: Full-stack Engineer
